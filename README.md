@@ -1,7 +1,7 @@
-### Hi there 👋
 
 <!--
 **bing0n3/bing0n3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -16,4 +16,17 @@ Here are some ideas to get you started:
 -->
 
 
-- 👨‍💻
+> 👨‍💻 Software Engineer
+
+A Gopher, but Making a Living with Java.
+
+### Tech Stack
+
+- Lang: Golang, Java
+- Interesting: Rust
+
+
+### Latest Post from [bing0ne](https://blog.bing0ne.com)
+
+- [对Go Channel 的一点认识](https://blog.bing0ne.com/go-channel) -- Posted at 02/29/2020
+- [HTTP的Patch， SQL的Update 以及Go的反射](https://blog.bing0ne.com/patch-update-reflect) -- Posted at 02/17/2020
