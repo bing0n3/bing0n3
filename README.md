@@ -30,3 +30,6 @@ A Gopher, but Making a Living with Java.
 
 - [对Go Channel 的一点认识](https://blog.bing0ne.com/go-channel) -- Posted at 02/29/2020
 - [HTTP的Patch， SQL的Update 以及Go的反射](https://blog.bing0ne.com/patch-update-reflect) -- Posted at 02/17/2020
+
+
+[![Bingwen's github stats](https://github-readme-stats.vercel.app/api?username=bing0n3)](https://github.com/anuraghazra/github-readme-stats)
